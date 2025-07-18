@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_BP/BP_OSCReciever1.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_MAP/MAP1.umap",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_MAT/M_PhysXElem3.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_BP/BP_PhysXElem1.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/MyFX/SoundReactive.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/MyFX/OmiBurst.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/MyFX/my_MPC.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/MyFX/M_test.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/MyFX/M_test1.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_MAP/Untitled.umap",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/MyFX/SoundReactive_Light.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_BP/_GMB/BP_P.uasset",
+				"C:/Users/Delt4/Desktop/NTRCT/Content/_BP/BP_RootCamera.uasset"
+			]
+		}
+	]
+}
