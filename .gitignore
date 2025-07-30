@@ -36,3 +36,5 @@
 #################################
 # Miscellaneous Generated Files #
 #################################
+Kinect/Record/*.exr
+Kinect/Record/*.png
