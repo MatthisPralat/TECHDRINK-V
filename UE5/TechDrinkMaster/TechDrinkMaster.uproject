@@ -88,10 +88,6 @@
 			]
 		},
 		{
-			"Name": "PixelStreaming",
-			"Enabled": true
-		},
-		{
 			"Name": "VariantManager",
 			"Enabled": true
 		},
@@ -200,5 +196,9 @@
 				"Win64"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
